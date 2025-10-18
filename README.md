@@ -18,7 +18,7 @@ LLMs learn from human textual data, inheriting both the precision and ambiguity 
 As AI becomes increasingly integrated into daily life, people are exposed to more and more AI-generated text.
 When humans are shaped in turn by this language, we enter a loop where understanding itself becomes unstable.
 
-Extended Directions
+#### Extended Directions
 
 **1. Linguistic Vagueness and Cognitive Feedback**
 Language does not simply describe the world; it shapes how we perceive, reason, and exist.
