@@ -4,7 +4,7 @@ This repository collects all my writings in philosophy.
 
 ### 🪶 Academic Essays
 
-**Du Châtelet’s Critique and Reconstruction of Descartes’ Theory of Knowledge** (academic/Du Châtelet’s Critique and Reconstruction of Descartes’ Theory of Knowledge.pdf)
+**Du Châtelet’s Critique and Reconstruction of Descartes’ Theory of Knowledge** (https://github.com/Jup1er/Philosophy/blob/main/academic/Du%20Cha%CC%82telet%E2%80%99s%20Critique%20and%20Reconstruction%20of%20Descartes%E2%80%99%20Theory%20of%20Knowledge.pdf)
 *Written in October 2025*
 
 This essay examines Émilie du Châtelet’s reinterpretation of Descartes’ epistemology.
