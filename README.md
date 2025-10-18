@@ -1,6 +1,4 @@
-## Jingxuan Li — Philosophy Writing
-
-This repository collects all my writings in philosophy.
+## Jingxuan Li  
 
 ### 🪶 Academic Essays
 
