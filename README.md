@@ -4,11 +4,10 @@
 
 **Du Châtelet’s Critique and Reconstruction of Descartes’ Theory of Knowledge**
 (https://github.com/Jup1er/Philosophy/blob/main/academic/Du%20Cha%CC%82telet%E2%80%99s%20Critique%20and%20Reconstruction%20of%20Descartes%E2%80%99%20Theory%20of%20Knowledge.pdf)  
-*This essay was written as a course assignment (PHIL 480) at McGill University (October 2025)*
+*Originally written as a course assignment (PHIL 480) at McGill University (Fall 2025)*
 
-This essay examines Émilie du Châtelet’s reinterpretation of Descartes’ epistemology.  
-It analyzes her criticism of the “clarity and distinctness” criterion and shows how she replaces it with a demonstrable method grounded in logical principles — the principle of contradiction, the principle of sufficient reason, and the law of continuity.  
-Through this synthesis, du Châtelet transforms Cartesian rationalism into a more rigorous and verifiable science of knowledge.
+This essay analyzes Émilie du Châtelet’s philosophical reconstruction of Descartes’ epistemology.  
+It argues that while du Châtelet preserves Descartes’ pursuit of certainty, she replaces his introspective method with a demonstrable system grounded in logical and empirical verification.  
 
 ### 🔭 Future Research Interest
 
